@@ -1,4 +1,6 @@
 # Unreal-Engine-Project-Gallrey
 Just to show my working progress
 
-图片和视频等会儿上传，主要是一个动态全局光照和虚拟阴影的效果展示。
+Source Code: https://github.com/S0e2/UnrealEngine/tree/RSGI_2.0
+
+图片和视频本周内制作上传，主要是一个动态全局光照和虚拟阴影的效果展示。
